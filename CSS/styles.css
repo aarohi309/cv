@@ -1,0 +1,26 @@
+/* EXTERNAL CSS for all similar webpages together */
+body {
+  background-color: #EAF6F6;
+}
+
+h1 {
+  color: #00818A;
+}
+
+h2 {
+  color: #00818A;
+}
+
+h3 {
+  color: #00818A;
+}
+
+hr {
+  border-style: dotted none none none;
+  /* or border-style: none; and border-top-style:dotted; */
+  border-color: grey;
+  border-width: 8px;
+  background-color: #EAF6F6;
+  width: 10%;
+  /*10% of entire webpage depending on phone laptop etc*/
+}
